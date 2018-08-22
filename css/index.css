@@ -26,7 +26,7 @@
 }
 .ad:hover .ad-r{
     /* 鼠标经过 ad 这个广告大盒子的时候，里面的这个交ad-r 的盒子的宽度由0变为990*/
-    width: 990px;
+    width: 990px; 
 
 }
 .ad-r{
@@ -49,7 +49,7 @@
 .grid-col1 a:hover{
     color: #f10215;
 }
-.grid-col1 ul li{
+.grid-col1 ul li{ 
     padding-left: 12px;
     height: 29px;
     line-height: 26px;
